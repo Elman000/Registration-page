@@ -1,0 +1,86 @@
+body {
+    margin-top: 1px;
+    padding: 1px;
+    font-family: "Winky Sans", sans-serif;
+    color: white;
+    text-decoration: none;
+    background-image: url(https://www.zastavki.com/pictures/1280x1024/20203D-graphics_Big_bright_neon_circle_139454_10.jpg);
+    
+}
+.main-container {
+    text-align: center;
+    margin-top: 90px;
+    border-style: solid;
+    border-radius: 125px;
+    display: inline-block;
+    border-width: 2px;
+    margin-left: 35%;
+    padding: 60px;
+    margin-left: 450px;
+} 
+.icon1 {
+    height: 30px;
+}
+.Member {
+    font-size: 25px;
+    font-weight: 1;
+}
+.Gmailp {
+    text-decoration: none;
+    padding-right: 280px;
+    padding-top: 20px;
+}
+.Gmail {
+    width: 320px;
+    height: 40px;
+}
+.passwordp {
+    text-decoration: none;
+    padding-right: 250px;
+    padding-top: 20px;
+}
+.password {
+    width: 320px;
+    height: 40px;
+}
+.cont-box {
+    display: inline-flex;
+    padding-right: 205px;
+    padding-bottom: 30px;
+    margin-top: -20px;
+}
+.btn1 {
+   height: 40px;
+   width: 500px;
+   background-color: #2CCCC4;
+   font-size: 20px;
+   
+}
+.btn-cont {
+margin-top: -30px;
+}
+.cont-pass {
+    padding-bottom: 10px;
+    margin-top: -20px;
+
+}
+.prem {
+    text-decoration: none;
+    color: white;
+}
+.btn1a {
+    text-decoration: none;
+    color: white;
+}
+.last-cont {
+    display: flex;
+    justify-content: space-between;
+}
+.lasta1 {
+    text-decoration: none;
+    color: white;
+}
+.lasta2 {
+    text-decoration: none;
+    color: white;
+}
