@@ -29,10 +29,12 @@ body {
     text-decoration: none;
     padding-right: 280px;
     padding-top: 20px;
+    padding-left: 10px;
 }
 .Gmail {
     width: 320px;
     height: 40px;
+    border-radius: 25px;
 }
 .passwordp {
     text-decoration: none;
@@ -42,6 +44,7 @@ body {
 .password {
     width: 320px;
     height: 40px;
+    border-radius: 25px;
 }
 .cont-box {
     display: inline-flex;
@@ -54,7 +57,8 @@ body {
    width: 500px;
    background-color: #2CCCC4;
    font-size: 20px;
-   
+   border-radius: 25px;
+   cursor: pointer;
 }
 .btn-cont {
 margin-top: -30px;
